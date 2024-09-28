@@ -1,0 +1,17 @@
+{
+  "route": {
+    "from": "CHIKKAMAGALURU",
+    "to": "BENGALURU",
+    "date": "2024-10-10"
+  },
+  "customer": {
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "phone": "6789125987"
+  },
+  "payment": {
+    "cardNumber": "4111111111111111",
+    "expiryDate": "12/25",
+    "cvv": "123"
+  }
+}
